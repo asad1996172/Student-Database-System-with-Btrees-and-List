@@ -1,5 +1,5 @@
 # Student-Database-System-with-Btrees-and-List
-I have to simulated some functionality of a database system. It is assumed that a number of users want to access a student database and perform the following functions:
+I have simulated some functionality of a database system. It is assumed that a number of users want to access a student database and perform the following functions:
 
 1. Create a student record (C)
 2. Review a student record (R)
